@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BlazorPopups.Core/BlazorPopups.Core.csproj" />
+  <Project Path="BlazorPopups.MudUI/BlazorPopups.MudUI.csproj" />
+</Solution>
